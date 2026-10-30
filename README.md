@@ -53,7 +53,7 @@ Ayrıca bu **P2W**, yani Pay To Win, türkçesiyle **Öde** ve **Kazan** sistemi
 
 ## İşin özüne inmeden önce, bağımlılık kelimesinin anlamını öğrenelim:
 
-**Bağımlılık**, bir insanın kullandığı bir eşyaya, maddeye (örn. uyuşturucu) ve nesneye sergilediği bir davranışa karşı iradesini yitirmesi ve buna engel **olamamasıdır** ve **zarara** rağmen **devam** etmesidir.
+**Bağımlılık**, bir insanın kullandığı bir eşyaya, maddeye (örn. uyuşturucu) ve nesneye sergilediği bir davranışa karşı iradesini yitirmesi, buna engel **olamamasıdır** ve **zarara** rağmen **devam** etmesidir.
 
 ### Zincir modelinin adımları:
 * **1.Merak:** Birey doğası gereği merak eder, hala kontrol kendisindedir.
